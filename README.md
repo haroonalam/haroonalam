@@ -1,5 +1,5 @@
 ### Hi champ..! 👋
-### 🌱 I’m currently learning Cross Paltform Application in FLUTTER
+### 🌱 I’m currently working in Cross Paltform Mobile Application using FLUTTER
 ### 📫 How to reach me: https://www.linkedin.com/in/haroonalam
 <!--
 **haroonalam/haroonalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
