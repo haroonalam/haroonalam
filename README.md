@@ -1,5 +1,5 @@
 ### Hi champ..! 👋
-### 🌱 I’m currently working in Django Python.
+### 🌱 I’m currently doing R&D on Blockchain Technology.
 ### 📫 How to reach me: https://www.linkedin.com/in/haroonalam
 <!--
 **haroonalam/haroonalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
