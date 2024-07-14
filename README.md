@@ -1,5 +1,5 @@
 ### Hi champ..! 👋
-### 🌱 I’m currently doing R&D on Blockchain Technology.
+### 🌱 My Niche is Reasearch and Development (R&D) in Software Engineering and development, where my focus on emerging technologies such as MERN, Blockchain, AI, ML, Cloud Computing and security.
 ### 📫 How to reach me: https://www.linkedin.com/in/haroonalam
 <!--
 **haroonalam/haroonalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
