@@ -4,7 +4,7 @@
 I'm doing Research and Development (R&D) in Artificial Intelligence, Cloud Security and Privacy to provide modern solutions to modern problems, after 3 years of experience in Web Development.
 
 ## 🌐 Connect and Learn More about Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haroonalam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imharoonalam) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID_HERE) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/YOUR_NAME_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haroonalam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imharoonalam) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=L1IaJmgAAAAJ) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Muhammad-Haroon-Alam)
 
 
 
