@@ -1,6 +1,7 @@
-# 💫 Status:
-I'm doing Research and Development (R&D) in Artificial Intelligence, Cloud Security and Privacy to provide modern solutions to modern problems, after 3 years of experience in Web Development.
+<img align='center' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
+# 💫 Current Status:
+I'm doing Research and Development (R&D) in Artificial Intelligence, Cloud Security and Privacy to provide modern solutions to modern problems, after 3 years of experience in Web Development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haroonalam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imharoonalam) 
@@ -15,6 +16,9 @@ I'm doing Research and Development (R&D) in Artificial Intelligence, Cloud Secur
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=haroonalam&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -23,5 +27,3 @@ I'm doing Research and Development (R&D) in Artificial Intelligence, Cloud Secur
 
 ---
 [![](https://visitcount.itsvg.in/api?id=haroonalam&icon=1&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
