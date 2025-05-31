@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently doing Researcha and Development (R&D) in Artificial Intelligence, Cloud Security and Privacy to provide modern solutions to modern problems, after 3 years of experience in Web Development.
+# 💫 Status:
+I'm doing Research and Development (R&D) in Artificial Intelligence, Cloud Security and Privacy to provide modern solutions to modern problems, after 3 years of experience in Web Development.
 
 
 ## 🌐 Socials:
