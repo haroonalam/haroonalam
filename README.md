@@ -1,4 +1,4 @@
-<img align='center' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='90'> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
+<img align='center' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='80'> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
 
 # 💫 Current Status:
 I'm doing Research and Development (R&D) in Artificial Intelligence, Cloud Security and Privacy to provide modern solutions to modern problems, after 3 years of experience in Web Development.
@@ -21,5 +21,4 @@ I'm doing Research and Development (R&D) in Artificial Intelligence, Cloud Secur
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=haroonalam&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=haroonalam&icon=1&color=1)](https://visitcount.itsvg.in)
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
